@@ -28,16 +28,13 @@ We do not tolerate harassment in any form. Refrain from demeaning, discriminator
 
 This Code of Conduct applies to all people participating in the event, including staff and leadership. It applies to all modes of interaction online including GitHub project repositories, including social gatherings affiliated with the event.
 
-Reporting Guidelines
 The Code of Conduct Committee includes
 
-Dean Marchiori
-Dianna Cook
+Dean Marchiori  
+Dianne Cook
 
 If you experience or witness unacceptable behavior, or have any other concerns, please submit a report to the Committee as soon as possible on info@wavedatalabs.com.au. You may also make a report directly to one member of the Committee by contacting them directly. If any member of the Committee has a conflict of interest with a report, they will be recused and will not have access to the content or process of the report followup.
 
 The Code of Conduct Committee will investigate and decide responses to reports with the aim of making a decision and implementing enforcement as soon as is reasonably possible. We are committed to transparency with our community while upholding the privacy of victims. 
-
-We welcome your feedback and thank you for working with us to make rOpenSci a safe, enjoyable, friendly and enriching experience for everyone who participates.
 
 This Code of Conducted is adapted from those used by ropensci.org

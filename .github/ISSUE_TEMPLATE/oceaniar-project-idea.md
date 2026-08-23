@@ -1,13 +1,13 @@
 ---
 name: OceaniaR Project Idea
-about: New idea for a project idea at OceaniaR 2025
+about: New idea for a project idea at OceaniaR 2026
 title: New idea for OceaniaR
 labels: New idea
 assignees: deanmarchiori
 
 ---
 
-Thanks for contributing an idea for the **OceaniaR 2025 Hackathon**! 🎉   
+Thanks for contributing an idea for the **OceaniaR 2026 Hackathon**! 🎉   
 
 Whether it’s a tool, package, app, analysis, or something experimental, we want to hear it!
 

@@ -1,6 +1,6 @@
 ---
 title: "OceaniaR 2026"
-subtitle: "29 November 2026, Melbourne"
+subtitle: "29 November 2026, Melbourne (Narrm)"
 ---
 
 :::: {.columns}
@@ -8,7 +8,7 @@ subtitle: "29 November 2026, Melbourne"
 ::: {.column width="60%"}
 
 We are excited to announce the next OceaniaR event. This event is run by the Statistical Computing and Visualisation Section of the Statistical Society of Australia. It's an interactive development day and a
-chance to collaborate in-person on R-focused projects for social good, with some
+chance to collaborate and hack in-person on R-focused projects for social good, with some
 of the leading developers in the R community. There will also be time to hold informal talks to share ideas, concepts and new packages for feedback.   
 
 This event will have a focus on promoting projects and participation from R users in the Oceania region including Australia, New Zealand and the Pacific Islands. 
@@ -28,7 +28,11 @@ This event will have a focus on promoting projects and participation from R user
 
 ## Join Us  
 
-Save the date. Registrations will open soon.
+Save the date, registration will open soon. 
+
+You can register your email address and we will let you know when registration opens: [expression of interest](https://forms.gle/ud2GmYhgeHcPbRu56)
+
+We encourage participation from diverse and underrepresented groups. To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow a [code of conduct](https://github.com/StatSocAus/oceaniar-2026/blob/main/CODEOFCONDUCT.md).
 
 
 ## When 
