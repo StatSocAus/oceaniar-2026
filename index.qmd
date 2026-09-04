@@ -50,6 +50,8 @@ All participants are encouraged to put forward and idea to work on. These will b
 
 [Submit your idea here ](https://github.com/StatSocAus/oceaniar-2026/issues)
 
+[See examples of past ideas here](https://github.com/StatSocAus/oceaniar-hack-2025/issues)
+
 ## The Venue   
 
 Monash College City Campus, 750 Collins St, Docklands, Melbourne VIC 3008
